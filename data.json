@@ -1,8 +1,9 @@
-
-    [
+{
+    "":[
         {
             "id":1,
-            "nombre":"carlos",
-            "edicion":"septiembre"
+            "nombre":"Limon con semilla",
+            "edicion":"32"
         }
     ]
+}
