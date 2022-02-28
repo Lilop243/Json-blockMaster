@@ -1,9 +1,13 @@
-{
-    "":[
+[
         {
             "id":1,
             "nombre":"Limon con semilla",
             "edicion":"32"
+        },
+
+        {
+            "id":2,
+            "nombre":"Limon con semilla",
+            "edicion":"32"
         }
-    ]
-}
+]
