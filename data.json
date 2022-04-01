@@ -339,7 +339,7 @@
             "original_title": "Hotel Transylvania: Transformania",
             "overview": "When Van Helsing's mysterious invention, the \"Monsterfication Ray,\" goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy.",
             "popularity": 1138.502,
-            "poster_path": "/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
+            "poster_path": "https://res.cloudinary.com/lilopez7/image/upload/v1645547255/aca-geek/f_ci2qoo.jpg",
             "release_date": "2022-02-25",
             "title": "Hotel Transylvania: Transformania",
             "video": false,
@@ -406,9 +406,7 @@
             "vote_average": 6.2,
             "vote_count": 302
         }
-    ],
-    "total_pages": 32966,
-    "total_results": 659316
+    ]
 }
 
 
