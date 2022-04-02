@@ -16,6 +16,34 @@
         "vote_count": 1394
     },
     {
+      
+        "id": 508947,
+        "original_language": "en",
+        "name": "Turning Red",
+        "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+        "popularity": 5830.184,
+        "image": "https://zenodo.org/record/6360744/files/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+        "dato": "2022-03-01",
+        "title": "Turning Red",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 1300
+    },
+    {
+
+        "id": 634649,
+        "original_language": "en",
+        "name": "Spider-Man: No Way Home",
+        "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+        "popularity": 5743.837,
+        "image": "https://www.themoviedb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+        "dato": "2021-12-15",
+        "title": "Spider-Man: No Way Home",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 10795
+    },
+    {
  
         "id": 568124,
         "original_language": "en",
