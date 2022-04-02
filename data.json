@@ -25,7 +25,7 @@
         "image": "https://www.themoviedb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
         "dato": "2021-11-24",
         "title": "Encanto",
-        "video": false,
+        "video": "https://res.cloudinary.com/lilopez7/video/upload/v1648869594/aca-geek/Encanto___Tr%C3%A1iler_Oficial___Disney_Disney_Studios_LA_nnjesz.mp4",
         "vote_average": 7.7,
         "vote_count": 5732
     },
@@ -39,7 +39,7 @@
         "image": "https://tvcablegratis.tv/wp-content/uploads/2022/03/74xTEgt7R36Fpooo50r9T25onhq.jpg",
         "dato": "2022-03-01",
         "title": "The Batman",
-        "video": false,
+        "video": "https://res.cloudinary.com/lilopez7/video/upload/v1648869558/aca-geek/Batman_-_Trailer_Oficial_bfup7v.mp4",
         "vote_average": 7.9,
         "vote_count": 2563
     },
@@ -54,7 +54,7 @@
         "image": "https://image.tmdb.org/t/p/w154//7gFo1PEbe1CoSgNTnjCGdZbw0zP.jpg",
         "dato": "2022-02-10",
         "title": "Blacklight",
-        "video": false,
+        "video": "https://res.cloudinary.com/lilopez7/video/upload/v1648869580/aca-geek/Blacklight_2022_-_Tr%C3%A1iler_Subtitulado_en_Espa%C3%B1ol_or4sts.mp4",
         "vote_average": 5.9,
         "vote_count": 222
     },
@@ -69,7 +69,7 @@
         "image": "https://www.themoviedb.org/t/p/original/xy6wQ09rMIN2FfWPHJXCWyRZ3P9.jpg",
         "dato": "2021-08-11",
         "title": "Pil's Adventures",
-        "video": false,
+        "video": "https://res.cloudinary.com/lilopez7/video/upload/v1648869607/aca-geek/PIL_-_Official_Trailer_2022_knvr4x.mp4",
         "vote_average": 7.1,
         "vote_count": 29
     },
